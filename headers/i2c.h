@@ -16,6 +16,7 @@
 # define RED		0x16			// VCP Code - Video Gain (Drive): Red
 # define GREEN		0x18			// VCP Code - Video Gain (Drive): Green
 # define BLUE		0x1A			// VCP Code - Video Gain (Drive): Blue
+# define USB_INPUT	0xE7
 # define PBP_INPUT	0xE8
 # define PBP		0xE9
 
